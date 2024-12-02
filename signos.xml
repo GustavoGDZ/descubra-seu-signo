@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<signos id="signos">
+<signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Signo de fogo, conhecido pela impulsividade e energia. Arianos são líderes naturais, determinados e corajosos. Gostam de desafios e têm uma atitude intensa e direta.</descricao>
+    <imagem>./assets/imgs/aries.png</imagem>
+</signo>
+<signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Signo de terra, associado à estabilidade e segurança. Taurinos valorizam o conforto e o prazer, são leais e têm um forte senso de perseverança. São pacientes, mas podem ser teimosos.</descricao>
+    <imagem>./assets/imgs/touro.png</imagem>
+</signo>
+<signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Signo de ar, famoso por sua curiosidade e adaptabilidade. Geminianos são comunicativos, versáteis e intelectuais. Gostam de variedade e têm um pensamento rápido, mas podem ser indecisos.</descricao>
+    <imagem>./assets/imgs/gemios.png</imagem>
+</signo>
+<signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Signo de água, conhecido por sua sensibilidade e intuição. Cancerianos são protetores, empáticos e ligados à família. Tendem a ser emotivos e valorizam conexões profundas.</descricao>
+    <imagem>./assets/imgs/cancer.png</imagem>
+</signo>
+<signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Signo de fogo, marcado pela autoconfiança e generosidade. Leoninos são carismáticos, gostam de ser o centro das atenções e têm uma natureza calorosa. Podem ser um pouco orgulhosos.</descricao>
+    <imagem>./assets/imgs/leao.png</imagem>
+</signo>
+<signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Signo de terra, conhecido pelo perfeccionismo e praticidade. Virginianos são organizados, analíticos e gostam de ajudar. São detalhistas, mas podem ser críticos consigo mesmos e com os outros.</descricao>
+    <imagem>./assets/imgs/virgem.png</imagem>
+</signo>
+<signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Signo de ar, associado ao equilíbrio e harmonia. Librianos valorizam a justiça, a diplomacia e têm um forte senso estético. São sociáveis e procuram evitar conflitos, mas podem ser indecisos.</descricao>
+    <imagem>./assets/imgs/libra.png</imagem>
+</signo>
+<signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Signo de água, intenso e misterioso. Escorpianos são passionais, determinados e intuitivos. Têm um lado emocional profundo e são leais, mas podem ser desconfiados e possessivos.</descricao>
+    <imagem>./assets/imgs/escorpiao.png</imagem>
+</signo>
+<signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Signo de fogo, ligado à liberdade e aventura. Sagitarianos são otimistas, expansivos e filosóficos. Gostam de explorar e aprender, mas podem ser um pouco impulsivos e francos demais.</descricao>
+    <imagem>./assets/imgs/sagitario.png</imagem>
+</signo>
+<signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Signo de terra, conhecido pela disciplina e ambição. Capricornianos são trabalhadores, responsáveis e focados. Valorizam a estabilidade e são persistentes, mas podem parecer frios.</descricao>
+    <imagem>./assets/imgs/capricornio.png</imagem>
+</signo>
+<signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Signo de ar, marcado pela inovação e independência. Aquarianos são visionários, gostam de novidade e têm um espírito humanitário. São progressistas, mas podem parecer distantes.</descricao>
+    <imagem>./assets/imgs/aquario.png</imagem>
+</signo>
+<signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Signo de água, conhecido pela empatia e imaginação. Piscianos são sonhadores, intuitivos e compassivos. Têm uma natureza artística e sensível, mas podem ser escapistas e vulneráveis.</descricao>
+    <imagem>./assets/imgs/peixes.png</imagem>
+</signo>
+</signos>  

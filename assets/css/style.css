@@ -1,0 +1,79 @@
+#signo-form { 
+    justify-content: center;
+    align-items: center;
+    width: 40%; 
+    margin: 5px auto; 
+    margin: auto;
+    text-align: center; 
+    padding: 0px;
+    border-top: 100px ; 
+    background-color: #dbc6aa; 
+    border-radius: 30px; 
+}
+
+#signo-form input { 
+    width: 80%; 
+    margin: 5px auto; 
+}
+
+#signo-form #signo-btn {
+    background-color: #d38a4e; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+}
+
+#signo-form #signo-btn:hover {
+    background-color: #d4ac86; 
+}
+
+#signo-form .form-group label {   
+    font-weight: bold; 
+}
+
+#signo-form input[type="date"] {
+    width: 100%; 
+    padding: 8px; 
+    border-radius: 5px; 
+    border: 1px solid #ccc; 
+}
+
+body {
+    background: url('../imgs/zodiac.webp');
+    background-size:cover;
+    padding: 12%;
+}
+
+
+.highlight {
+    color: #000;
+}
+
+#signos {
+    background-color: #fff;
+}
+
+.nome {
+    text-align: center;
+    font-size: 50px;
+}
+
+.form-weight-bold {
+   margin-top: -50px;
+}
+
+.new-container { 
+    font-family: Arial;
+    justify-content: center;
+    align-items: center;
+    width: 40%; 
+    margin: 10px auto; 
+    text-align: center; 
+    padding: 0px;
+    border: 35px solid transparent; 
+    background-color: #dbc6aa; 
+    border-radius: 30px; 
+}
